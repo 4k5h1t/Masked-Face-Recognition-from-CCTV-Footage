@@ -1,1 +1,1 @@
-# Masked-Face-Recognition-from-CCTV-Footage
+# Masked Face Recognition from CCTV Footage
